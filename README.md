@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**piercetheshar/piercetheshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sharvari 👋  
+🎓 M.S. Computer Science @ University at Buffalo  
+💡 AI/ML Engineer & Full-Stack Developer  
+🚀 Passionate about building intelligent, user-centric products  
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
+Python | PyTorch | TensorFlow | Django | React | SQL | Flask | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Featured Projects
+- 🖋️ [Handwriting Recognition for Dyslexic Individuals](link)
+- 🧩 [Phishing URL Detection](link)
+- 🗓️ [Automated Timetable Generator](link)
+- 📊 [Financial Data Dashboard (Kiya.ai Internship)](link)
+
+### 🌱 About Me
+Passionate about bridging intelligent systems with clean web design.  
+Always learning, building, and collaborating on projects that create impact.  
+
+📫 Reach me at **smayekar@buffalo.edu** | [LinkedIn](https://linkedin.com/in/sharvarimayekar)
+
+
