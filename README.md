@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sharvari 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJpaW5pZ3dtdng1N3g1dHNid3NveXR1eWFpZDVlM3o2MXN6OTYwcCJlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnBntKOgnUSBkV7bQH/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE3dW44Z2hmcDZ1cjR4dnFmbmM2MDM0ZjZ5a3U3djJ2cG81dHI0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
 </p>
 
 
