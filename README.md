@@ -105,4 +105,15 @@ Uses **genetic algorithms** for conflict-free timetable generation.
 
 ---
 
+
+## 🎨 Portfolio  
+
+<p align="left">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="160" />
+</p>
+
+🔧 *I'm building my portfolio website — launching soon!*
+
+---
+
 <p align="center">💜 Thanks for stopping by! Feel free to explore my work. </p>
