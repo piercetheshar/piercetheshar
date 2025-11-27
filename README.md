@@ -49,7 +49,7 @@ I’m always building, learning, and improving.
 
 ### 🧰 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" />
 </p>
 
 ---
