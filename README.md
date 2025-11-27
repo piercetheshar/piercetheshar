@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sharvari 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/3o6fJ8bhlHq0v5Z5aA/giphy.gif" width="150"/>
 </p>
 
 
