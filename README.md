@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Sharvari 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="140"/>
 </p>
+
 
 <p align="center">
   <b>AI/ML Engineer • Full-Stack Developer • Data Storyteller</b><br/>
