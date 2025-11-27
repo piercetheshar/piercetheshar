@@ -85,12 +85,7 @@ Uses **genetic algorithms** for conflict-free timetable generation.
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 ## 📚 Resume Highlights
 
