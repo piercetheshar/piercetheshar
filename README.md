@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Sharvari 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
 </p>
-
 
 
 
