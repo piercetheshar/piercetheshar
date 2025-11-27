@@ -19,7 +19,7 @@
 I'm a graduate student in **Computer Science @ University at Buffalo**  
 specializing in **Machine Learning, Deep Learning, Computer Vision, and Data-Intensive computing**.  
 
-Previously, I worked as an ** Analyst at Ipsos**, where I built  
+Previously, I worked as an **Analyst at Ipsos**, where I built  
 ML-driven data quality systems that scaled across 250+ global surveys.  
 
 Outside tech, I love:
