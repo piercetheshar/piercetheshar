@@ -34,7 +34,7 @@ I’m always building, learning, and improving.
 
 ### 💻 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=10" />
 </p>
 
 ### 📚 Frameworks & Libraries  
