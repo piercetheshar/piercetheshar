@@ -30,10 +30,26 @@ Outside tech, I love:
 I’m always building, learning, and improving.
 
 ---
-
 ## 🛠️ Tech Stack  
+
+### 💻 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,django,flask,react,js,html,css,cpp,postgres,mysql,sqlite,git,github,docker,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=10" />
+</p>
+
+### 📚 Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,django,flask,react&perline=10" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=10" />
+</p>
+
+### 🧰 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=10" />
 </p>
 
 ---
