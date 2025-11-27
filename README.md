@@ -19,7 +19,7 @@
 I'm a graduate student in **Computer Science @ University at Buffalo**  
 specializing in **Machine Learning, Deep Learning, Computer Vision, and Data-Intensive computing**.  
 
-Previously, I worked as an **Executive Analyst at Ipsos**, where I built  
+Previously, I worked as an ** Analyst at Ipsos**, where I built  
 ML-driven data quality systems that scaled across 250+ global surveys.  
 
 Outside tech, I love:
@@ -86,28 +86,6 @@ Uses **genetic algorithms** for conflict-free timetable generation.
 ---
 
 
-
-## 📚 Resume Highlights
-
-### 🎓 Education  
-- **MS in Computer Science, University at Buffalo**  
-  Coursework: ML, Deep Learning, Data Intensive Computing, CVIP, Pattern Recognition  
-- **BS in Information Technology, Mumbai University**
-
-### 💼 Work Experience  
-**Ipsos Market Research — Executive Analyst**  
-- Improved data quality by **55%** via ML anomaly detection  
-- Achieved **96% accuracy** on large-scale data-cleaning pipelines  
-- Automated reports → reduced manual effort by **30%**  
-- Built TensorFlow + scikit-learn predictive pipelines  
-:contentReference[oaicite:0]{index=0}
-
-**Kiya.ai — Data Analytics Intern**  
-- Reduced anomalies by **80%** using Pandas/Numpy  
-- Improved ML model performance by **25%**  
-:contentReference[oaicite:1]{index=1}
-
----
 
 ## ✨ Hobbies  
 <p>
