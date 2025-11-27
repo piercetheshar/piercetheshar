@@ -1,51 +1,67 @@
 <h1 align="center">Hi, I'm Sharvari 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI5bW1jZ3gwbDA3YjU5YjBmNWF3MjEwdXVid3J2MHFqNjg1cm01ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWUpT13Z5DguY/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <b>AI/ML Engineer • Full-Stack Developer • Data Storyteller</b><br/>
+  Building intelligent, accessible, human-centered systems.
 </p>
 
 ---
 
-## 🚀 About Me  
-I’m an **AI/ML Engineer & Full-Stack Developer** passionate about building intelligent, user-centric systems that solve real-world problems.  
-Always learning, building, and collaborating on things that create impact.
+## 🌈 About Me  
+
+I'm a graduate student in **Computer Science @ University at Buffalo**  
+specializing in **Machine Learning, Deep Learning, Computer Vision, and Data-Intensive computing**.  
+
+Previously, I worked as an **Executive Analyst at Ipsos**, where I built  
+ML-driven data quality systems that scaled across 250+ global surveys.  
+
+Outside tech, I love:
+- 🏋️‍♀️ Working out  
+- 📚 Reading fiction & psychology  
+- 🧁 Baking desserts (and sharing them 👀)
+
+I’m always building, learning, and improving.
 
 ---
 
-## 🧠 Tech Stack  
-
-**ML & AI:** Python • PyTorch • TensorFlow • Scikit-Learn  
-**Web & Backend:** Django • Flask • React • Node • SQL  
-**Tools:** Git • Docker • VSCode • Linux  
-
+## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,js,react,html,css,django,flask,sqlite,mysql,docker,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,django,flask,react,js,html,css,cpp,postgres,mysql,sqlite,git,github,docker,vscode&perline=8" />
 </p>
 
 ---
 
-## 🌟 Featured Projects  
+## 🚀 Featured Projects
 
 ### 🔹 **Handwriting Recognition for Dyslexic Individuals**  
-A deep learning system designed to support cognitive accessibility and assistive education.  
-
-### 🔹 **Phishing URL Detection**  
-Built an ML model to classify phishing URLs using handcrafted & learned features.  
-
-### 🔹 **Automated Timetable Generator**  
-Constraint-based scheduler using Python & optimization techniques.
+Deep learning system using **CNNs + CRNNs + Transformers** (PyTorch).  
+Achieved **91% validation accuracy**, includes **Grad-CAM interpretability**.  
+▶ *Built for accessibility & educational support.*
 
 ---
 
-## 📊 GitHub Activity  
+### 🔹 **Phishing URL Detection**  
+Analyzed 200K+ URLs with **EDA, feature engineering, model training** (SVM, KNN, RF).  
+Achieved **93% accuracy** and created custom visualizations.  
+
+---
+
+### 🔹 **Automated Timetable Generator**  
+Django-based scheduling system with constraint-based optimization.  
+Uses **genetic algorithms** for conflict-free timetable generation.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piercetheshar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piercetheshar&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piercetheshar&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piercetheshar&theme=tokyonight" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piercetheshar&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piercetheshar&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -57,13 +73,44 @@ Constraint-based scheduler using Python & optimization techniques.
 
 ---
 
-## 📬 Connect With Me  
+## 📚 Resume Highlights
 
-<p align="left">
-  <a href="mailto:sharvarim127@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sharvari-mayekar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 🎓 Education  
+- **MS in Computer Science, University at Buffalo**  
+  Coursework: ML, Deep Learning, Data Intensive Computing, CVIP, Pattern Recognition  
+- **BS in Information Technology, Mumbai University**
+
+### 💼 Work Experience  
+**Ipsos Market Research — Executive Analyst**  
+- Improved data quality by **55%** via ML anomaly detection  
+- Achieved **96% accuracy** on large-scale data-cleaning pipelines  
+- Automated reports → reduced manual effort by **30%**  
+- Built TensorFlow + scikit-learn predictive pipelines  
+:contentReference[oaicite:0]{index=0}
+
+**Kiya.ai — Data Analytics Intern**  
+- Reduced anomalies by **80%** using Pandas/Numpy  
+- Improved ML model performance by **25%**  
+:contentReference[oaicite:1]{index=1}
+
+---
+
+## ✨ Hobbies  
+<p>
+  <img src="https://img.shields.io/badge/🏋️‍♀️-Gym-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚-Reading-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧁-Baking-pink?style=for-the-badge"/>
 </p>
 
 ---
 
-⭐ _Thanks for visiting! Feel free to check out my work._  
+## 📫 Connect With Me  
+
+<p align="left">
+  <a href="mailto:sharvarim127@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sharvarimayekar/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">💜 Thanks for stopping by! Feel free to explore my work. </p>
