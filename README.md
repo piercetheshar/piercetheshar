@@ -75,8 +75,6 @@ Uses **genetic algorithms** for conflict-free timetable generation.
 
 ---
 
----
-
 ## 🎓 Certifications  
 
 ### 📜 Post Graduate Certificate in Business Analytics  
