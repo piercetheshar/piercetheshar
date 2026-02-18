@@ -75,6 +75,19 @@ Uses **genetic algorithms** for conflict-free timetable generation.
 
 ---
 
+---
+
+## 🎓 Certifications  
+
+### 📜 Post Graduate Certificate in Business Analytics  
+Issued by Symbiosis Centre for Distance Learning (SCDL)  
+
+<p align="left">
+  <img src="pgcba_certificate.png" width="600"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
